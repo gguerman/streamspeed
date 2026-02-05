@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <time.h>
+#include <windows.h>
 
 int main()
 {
@@ -42,5 +43,12 @@ int main()
 
     printf("tiempo total:%.2f",total);
     printf("\nvelocidad de tapping:%.1f bpm",bpm);
+
+    while (1) {
+    Sleep(1000);
+    }
+
     return 0;
+
+
 }
