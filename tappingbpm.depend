@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1770268466 source:c:\users\chriss\documents\tappingbpm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
